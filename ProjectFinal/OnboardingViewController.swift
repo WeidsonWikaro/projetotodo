@@ -14,7 +14,8 @@ class OnboardingViewController: UIViewController {
     
     var datasource  = [
         OnboardingCollectionViewCellModel( description: "O ToDo Faster veio para te ajudar no gerenciamento das suas atividades. Agora sim sobrará tempo na sua vida!", imageName: "background"),
-         OnboardingCollectionViewCellModel( description: "O ToDo Faster permite adicionar novas tarefas!", imageName: "background")
+        OnboardingCollectionViewCellModel( description: "O ToDo Faster permite adicionar novas tarefas!", imageName: "background"),
+        OnboardingCollectionViewCellModel( description: "O ToDo Faster permite você visualizar suas atividades!", imageName: "background")
         
        
     ]
